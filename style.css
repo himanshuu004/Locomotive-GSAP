@@ -1,0 +1,44 @@
+*{
+  padding: 0%;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+
+}
+
+.page1{
+  height: 100vh;
+  width: 100%;
+  background-color: #E3E3C4;
+}
+
+.page1 img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.page2{
+  height: 100vh;
+  width: 100%;
+  background-color: #535D41;
+  padding:  3vw 19vw;
+}
+.page3{
+  height: 100vh;
+  width: 100%;
+  background-color: #E3E3C4;
+}
+
+.page2 h1{
+  font-size: 3.5vw;
+  color: #434B34;
+  text-align: center;
+  font-weight: 300;
+  font-family: monument;
+
+}
